@@ -15,3 +15,10 @@ For this version user can:-
 3. Open Chrome web browser and can have a website or search results preloaded when the web broswer opens.
 4. Open a website or simply perform a search by giving command in english language.
 5. Ask question and the answers will be displayed in web browser in form og google search.
+
+Limitations:-
+1. You need to have the aforementioned applications in your system and thier path needs to be added to environment variables.
+2. It won't answer the questions directly on the console itself but rather it'll perform a google search on chrome.
+3. If user asks not to open any applications by giving command like" don't open notepad" it'll still open the application.
+4. No User interface yet.
+5. There still maybe some words it may still not be able to identify and open the application intended rather it'll perform a google search for it.
